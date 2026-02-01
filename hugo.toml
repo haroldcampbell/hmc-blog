@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hmc-blog.netlify.app/'
 languageCode = 'en-us'
 title = 'hmc-blog'
-theme = 'ananke'
+theme = 'beautifulhugo'
